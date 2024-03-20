@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-20T02:06:42 PDT" name="Suite" finished-at="2024-03-20T02:06:48 PDT" duration-ms="6662">
+    <groups>
+    </groups>
+    <test started-at="2024-03-20T02:06:42 PDT" name="Test" finished-at="2024-03-20T02:06:48 PDT" duration-ms="6662">
+      <class name="com.github.CRUD.Validating_CRUDTests">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.github.CRUD.Validating_CRUDTests@607fbe09]" started-at="2024-03-20T02:06:42 PDT" name="beforeSuite" finished-at="2024-03-20T02:06:42 PDT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.github.CRUD.Validating_CRUDTests@607fbe09]" started-at="2024-03-20T02:06:42 PDT" name="beforeClass" finished-at="2024-03-20T02:06:42 PDT" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="validateGetSingleRepo()[pri:0, instance:com.github.CRUD.Validating_CRUDTests@607fbe09]" started-at="2024-03-20T02:06:42 PDT" name="validateGetSingleRepo" finished-at="2024-03-20T02:06:44 PDT" duration-ms="1534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetSingleRepo -->
+        <test-method signature="validateInvalidRepo()[pri:1, instance:com.github.CRUD.Validating_CRUDTests@607fbe09]" started-at="2024-03-20T02:06:44 PDT" name="validateInvalidRepo" finished-at="2024-03-20T02:06:44 PDT" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInvalidRepo -->
+        <test-method signature="validateGetallRepos()[pri:2, instance:com.github.CRUD.Validating_CRUDTests@607fbe09]" started-at="2024-03-20T02:06:44 PDT" name="validateGetallRepos" finished-at="2024-03-20T02:06:45 PDT" duration-ms="844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetallRepos -->
+        <test-method signature="validateAddData()[pri:3, instance:com.github.CRUD.Validating_CRUDTests@607fbe09]" started-at="2024-03-20T02:06:45 PDT" name="validateAddData" finished-at="2024-03-20T02:06:46 PDT" duration-ms="1028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddData -->
+        <test-method signature="validateCreateRepoWithExisting()[pri:4, instance:com.github.CRUD.Validating_CRUDTests@607fbe09]" started-at="2024-03-20T02:06:46 PDT" name="validateCreateRepoWithExisting" finished-at="2024-03-20T02:06:47 PDT" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateRepoWithExisting -->
+        <test-method signature="validateUpdatedData()[pri:5, instance:com.github.CRUD.Validating_CRUDTests@607fbe09]" started-at="2024-03-20T02:06:47 PDT" name="validateUpdatedData" finished-at="2024-03-20T02:06:48 PDT" duration-ms="920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUpdatedData -->
+        <test-method signature="validateDeletedRepo()[pri:6, instance:com.github.CRUD.Validating_CRUDTests@607fbe09]" started-at="2024-03-20T02:06:48 PDT" name="validateDeletedRepo" finished-at="2024-03-20T02:06:48 PDT" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeletedRepo -->
+        <test-method signature="validateDeletedNonExistRepo()[pri:7, instance:com.github.CRUD.Validating_CRUDTests@607fbe09]" started-at="2024-03-20T02:06:48 PDT" name="validateDeletedNonExistRepo" finished-at="2024-03-20T02:06:48 PDT" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeletedNonExistRepo -->
+      </class> <!-- com.github.CRUD.Validating_CRUDTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

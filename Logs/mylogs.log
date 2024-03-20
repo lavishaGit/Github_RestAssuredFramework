@@ -1,0 +1,108 @@
+20240319 20:52:41 INFO  [main] base.APIHelper APIHelper.java72 - DDDD
+20240319 20:52:41 INFO  [main] base.APIHelper APIHelper.java77 - 
+20240319 20:52:42 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java69 - Received status message: Not Found
+20240319 20:52:42 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java71 - Received status code: 404
+20240319 20:54:22 INFO  [main] base.APIHelper APIHelper.java72 - DDDD
+20240319 20:54:22 INFO  [main] base.APIHelper APIHelper.java77 - 
+20240319 20:54:23 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java69 - Received status message: Not Found
+20240319 20:54:23 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java71 - Received status code: 404
+20240319 20:54:23 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java77 - Schema validation passed successfully
+20240319 21:04:56 INFO  [main] base.APIHelper APIHelper.java72 - DDDD
+20240319 21:04:57 INFO  [main] base.APIHelper APIHelper.java77 - 
+20240319 21:04:58 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java69 - Received status message: Not Found
+20240319 21:04:58 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java71 - Received status code: 404
+20240319 21:04:58 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java77 - Schema validation passed successfully
+20240319 21:41:37 INFO  [main] base.APIHelper APIHelper.java72 - DDDD
+20240319 21:41:37 INFO  [main] base.APIHelper APIHelper.java77 - 
+20240319 21:41:39 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java69 - Received status message: Not Found
+20240319 21:41:39 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java71 - Received status code: 404
+20240319 21:42:32 INFO  [main] base.APIHelper APIHelper.java72 - DDDD
+20240319 21:42:32 INFO  [main] base.APIHelper APIHelper.java77 - 
+20240319 21:42:33 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java69 - Received status message: Not Found
+20240319 21:42:33 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java71 - Received status code: 404
+20240319 21:42:34 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java77 - Schema validation passed successfully
+20240319 21:44:29 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java87 - Schema validation for All Repositories is  passed successfully
+20240319 21:53:04 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java86 -  Status code validation   200 is  passed successfully
+20240319 21:53:04 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java90 - Schema validation for All Repositories is  passed successfully
+20240319 22:22:58 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java87 -  Status code validation   200 is  passed successfully
+20240319 22:22:59 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java91 - Schema validation for All Repositories is  passed successfully
+20240319 22:28:10 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java87 -  Status code validation   200 is  passed successfully
+20240319 22:28:10 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java91 - Schema validation for All Repositories is  passed successfully
+20240319 22:48:33 INFO  [main] base.APIHelper APIHelper.java117 - Adding below data :: {"namee":"Hello-World12","description":"This is my repo!","homepage":"https://github.com","private":false}
+20240319 22:50:20 INFO  [main] base.APIHelper APIHelper.java118 - Adding below data :: {"namee":"Hello-World12","description":"This is my repo!","homepage":"https://github.com","private":false}
+20240319 22:53:37 INFO  [main] base.APIHelper APIHelper.java118 - Adding below data :: {"name":"Hello-World12","description":"This is my repo!","homepage":"https://github.com","private":false}
+20240319 23:19:35 INFO  [main] base.APIHelper APIHelper.java118 - Adding below data :: {"name":"Hello-World11","description":"This is my repo!","homepage":"https://github.com","private":false}
+20240319 23:19:37 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java126 -  Status code validation   201 is  passed successfully
+20240319 23:37:10 INFO  [main] base.APIHelper APIHelper.java118 - Adding below data :: {"name":"Hello-World11","description":"This is my repo!","homepage":"https://github.com","private":false}
+20240319 23:37:11 INFO  [main] CRUD.Validating_CRUDFuntionalities Validating_CRUDFuntionalities.java142 -  Status code validation  422 is  passed successfully422
+20240320 00:48:38 INFO  [main] base.APIHelper APIHelper.java76 - DDDD
+20240320 00:48:38 INFO  [main] base.APIHelper APIHelper.java81 - 
+20240320 00:48:38 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java77 - Received status message: Not Found
+20240320 00:48:38 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java79 - Received status code: 404
+20240320 00:48:38 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java85 - Schema validation passed successfully
+20240320 00:48:39 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java95 -  Status code validation   200 is  passed successfully
+20240320 00:48:39 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java99 - Schema validation for All Repositories is  passed successfully
+20240320 00:48:39 INFO  [main] base.APIHelper APIHelper.java120 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 00:48:39 INFO  [main] base.APIHelper APIHelper.java120 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 00:52:24 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java64 - Received status code 200 
+20240320 00:52:30 INFO  [main] base.APIHelper APIHelper.java76 - DDDD
+20240320 00:52:30 INFO  [main] base.APIHelper APIHelper.java81 - 
+20240320 00:52:32 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java77 - Received status message: Not Found
+20240320 00:52:32 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java79 - Received status code: 404
+20240320 00:52:32 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java85 - Schema validation passed successfully
+20240320 00:52:41 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java95 -  Status code validation   200 is  passed successfully
+20240320 00:52:41 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java99 - Schema validation for All Repositories is  passed successfully
+20240320 00:52:49 INFO  [main] base.APIHelper APIHelper.java120 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 00:57:56 INFO  [main] base.APIHelper APIHelper.java121 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 00:57:58 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java131 -  Status code validation   201 is  passed successfully
+20240320 00:58:05 INFO  [main] base.APIHelper APIHelper.java121 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 00:58:06 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java145 -  Status code validation  422 is  passed successfully422
+20240320 01:48:03 INFO  [main] base.APIHelper APIHelper.java121 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 01:48:04 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java147 -  Status code validation  422 is  passed successfully422
+20240320 01:55:12 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java66 - Received status code 200 
+20240320 01:55:12 INFO  [main] base.APIHelper APIHelper.java76 - DDDD
+20240320 01:55:12 INFO  [main] base.APIHelper APIHelper.java81 - 
+20240320 01:55:12 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java79 - Received status message: Not Found
+20240320 01:55:12 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java81 - Received status code: 404
+20240320 01:55:12 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java87 - Schema validation passed successfully
+20240320 01:55:13 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java97 -  Status code validation   200 is  passed successfully
+20240320 01:55:13 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java101 - Schema validation for All Repositories is  passed successfully
+20240320 01:55:13 INFO  [main] base.APIHelper APIHelper.java121 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 01:55:13 INFO  [main] base.APIHelper APIHelper.java121 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 01:55:13 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java147 -  Status code validation  422 is  passed successfully422
+20240320 01:57:38 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java66 - Received status code 200 
+20240320 01:57:38 INFO  [main] base.APIHelper APIHelper.java76 - DDDD
+20240320 01:57:38 INFO  [main] base.APIHelper APIHelper.java81 - 
+20240320 01:57:38 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java79 - Received status message: Not Found
+20240320 01:57:38 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java81 - Received status code: 404
+20240320 01:57:38 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java87 - Schema validation passed successfully
+20240320 01:57:39 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java97 -  Status code validation   200 is  passed successfully
+20240320 01:57:40 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java101 - Schema validation for All Repositories is  passed successfully
+20240320 01:57:40 INFO  [main] base.APIHelper APIHelper.java121 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 01:57:41 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java133 -  Status code validation   201 is  passed successfully
+20240320 01:57:41 INFO  [main] base.APIHelper APIHelper.java121 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 01:57:41 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java147 -  Status code validation  422 is  passed successfully422
+20240320 01:59:22 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java66 - Received status code 200 
+20240320 01:59:22 INFO  [main] base.APIHelper APIHelper.java76 - DDDD
+20240320 01:59:22 INFO  [main] base.APIHelper APIHelper.java81 - 
+20240320 01:59:22 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java79 - Received status message: Not Found
+20240320 01:59:22 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java81 - Received status code: 404
+20240320 01:59:23 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java87 - Schema validation passed successfully
+20240320 01:59:23 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java97 -  Status code validation   200 is  passed successfully
+20240320 01:59:23 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java101 - Schema validation for All Repositories is  passed successfully
+20240320 01:59:23 INFO  [main] base.APIHelper APIHelper.java121 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 01:59:24 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java133 -  Status code validation   201 is  passed successfully
+20240320 01:59:24 INFO  [main] base.APIHelper APIHelper.java121 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 01:59:25 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java147 -  Status code validation  422 is  passed successfully422
+20240320 02:06:44 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java69 - Received status code 200 
+20240320 02:06:44 INFO  [main] base.APIHelper APIHelper.java76 - DDDD
+20240320 02:06:44 INFO  [main] base.APIHelper APIHelper.java81 - 
+20240320 02:06:44 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java88 - Received status message: Not Found
+20240320 02:06:44 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java91 - Received status code: 404
+20240320 02:06:44 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java99 - Schema validation passed successfully
+20240320 02:06:45 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java111 -  Status code validation   200 is  passed successfully
+20240320 02:06:45 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java115 - Schema validation for All Repositories is  passed successfully
+20240320 02:06:45 INFO  [main] base.APIHelper APIHelper.java121 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 02:06:46 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java149 -  Status code validation   201 is  passed successfully
+20240320 02:06:46 INFO  [main] base.APIHelper APIHelper.java121 - Adding below data :: {"name":"Hello-World","description":"This is my new created repo!","homepage":"https://github.com","private":false}
+20240320 02:06:47 INFO  [main] CRUD.Validating_CRUDTests Validating_CRUDTests.java166 -  Status code validation  422 is  passed successfully422
